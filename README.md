@@ -39,10 +39,6 @@
 ## 🖥️ Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdtech&layout=compact)
 
-## 📊 GitHub Stats:
-![NMD Technologies' GitHub Stats](https://github-readme-stats.vercel.app/api?username=nmdtech&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-
 <!---
 nmdtech/nmdtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
