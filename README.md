@@ -37,7 +37,7 @@
 - We/Us
 
 ## 🖥️ Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdtech&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdtech&layout=compact&theme=tokyonight)
 
 <!---
 nmdtech/nmdtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
